@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="37px" height="37px" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 13</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.55137106 0.000518571418 1.8477996 0.000518571418 1.8477996 5.18571418 0.55137106 5.18571418"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dev-Test-1" transform="translate(-1009.000000, -1277.000000)">
+            <g id="Stacked-Group" transform="translate(290.000000, 1255.000000)">
+                <g id="Group-19" transform="translate(614.000000, 0.000000)">
+                    <g id="Group-13" transform="translate(106.000000, 23.000000)">
+                        <path d="M11.6325278,27.7889458 C10.0651457,24.8175316 9.08115639,20.4848674 9.08115639,15.5688104 C9.08115639,6.39657844 16.6587812,0.755817841 17.3549634,0.0233357138 C17.3847812,-0.00777857127 17.4262669,-0.00777857127 17.4560848,0.0233357138 C18.1509705,0.755817841 25.7298918,6.39657844 25.7298918,15.5688104 C25.7298918,20.4848674 24.7459025,24.8175316 23.177224,27.7889458 L11.6325278,27.7889458 Z" id="Stroke-1" stroke="#FFFFFF" stroke-width="2"></path>
+                        <path d="M9.15297853,17.8391161 L0.0235287244,25.0770766 C-0.00110341792,25.0991159 -0.00499270355,25.1289338 0.0053787248,25.1522695 C0.0170465817,25.1769016 0.041678724,25.1950516 0.0766822947,25.1950516 L10.5621964,25.1950516" id="Stroke-3" stroke="#FFFFFF" stroke-width="2"></path>
+                        <path d="M25.6563843,17.8391161 L34.7858341,25.0770766 C34.8104662,25.0991159 34.8130591,25.1289338 34.8026876,25.1522695 C34.7923162,25.1769016 34.7663876,25.1950516 34.7326805,25.1950516 L24.24587,25.1950516" id="Stroke-5" stroke="#FFFFFF" stroke-width="2"></path>
+                        <g id="Group-9" transform="translate(14.260777, 30.381284)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-8"></g>
+                            <path d="M0.55137106,0.000518571418 L0.55137106,5.18623275" id="Stroke-7" stroke="#FFFFFF" stroke-width="2" mask="url(#mask-2)"></path>
+                        </g>
+                        <path d="M19.9985108,27.9003091 L19.9985108,32.9745304" id="Stroke-10" stroke="#FFFFFF" stroke-width="2"></path>
+                        <path d="M22.3331193,5.29694775 L12.4854481,5.29694775" id="Stroke-12" stroke="#FFFFFF" stroke-width="2"></path>
+                        <path d="M17.4050055,10.2713441 C19.0773983,10.2713441 20.4321662,11.6261119 20.4321662,13.2985047 C20.4321662,14.9708975 19.0773983,16.3256654 17.4050055,16.3256654 C15.7326127,16.3256654 14.3791413,14.9708975 14.3791413,13.2985047 C14.3791413,11.6261119 15.7326127,10.2713441 17.4050055,10.2713441 Z" id="Stroke-14" stroke="#FFFFFF" stroke-width="2"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
